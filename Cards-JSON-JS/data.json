@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Basic Package",
+        "info": "Basic Package offers 1 month of services for free",
+        "price": "$29.99",
+        "subInfo": "Get it Now!"
+    
+    },
+    
+    {
+        "name": "Deluxe Package",
+        "info": "Basic Package offers 2 month of services for free",
+        "price": "$39.99",
+        "subInfo": "Get it Now!"
+    
+    },
+    {
+        "name": "Gold Package",
+        "info": "Basic Package offers 3 month of services for free",
+        "price": "$69.99",
+        "subInfo": "Get it Now!"
+    
+    }
+
+]

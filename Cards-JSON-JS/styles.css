@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(243, 240, 240);
+}
+
+.packages-info{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 3rem;
+}
+
+.card-body{
+    border: 1px solid green;
+    border-radius: 1rem;
+    height: 20rem;
+    text-align: center;
+    background: rgba( 28, 201, 212, 0.2 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.card-title{
+    margin-top: 3rem;
+}
+
+.card-text{
+    padding: 2rem;
+}
+
+/* .cardPrice{
+    padding: 1rem;
+} */
+
+.subInfo{
+    padding: 1rem;
+}
+
+.btn{
+    text-decoration: none;
+    border: 1px solid green;
+    padding: .5rem;
+    border-radius: .5rem;
+    background-color: rgb(31, 171, 40);
+    color: white;
+}
